@@ -1,0 +1,61 @@
+h1{ text-align: center;
+    color: #03C6C7;
+    background-color: black;
+}
+div{
+    text-align: center;
+}
+
+.form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.formInput{
+    padding: 15px;
+    margin:10px  0px;
+}
+.button{
+    display: inline-block;
+    background-color: #04AA6D; 
+    border: 2px solid #fff; 
+    color: white;
+    padding: 10px 24px;
+    cursor: pointer; 
+}
+.h1{
+    background-color: black;
+    color: aquamarine;
+
+
+
+}
+table{
+
+    width: 500px;
+    border-collapse: collapse;
+    overflow: hidden;
+}
+th{
+    color:#8D3DAF ;
+    text-align: center;
+    padding: 100px;
+    
+
+}
+td{
+  text-align: center;
+  background-color:#CAD5E2;
+  padding: 20px;
+
+}
+input{
+    padding: 10px;
+    margin:10px  0px;
+    border: 2px;
+    width: 200px;
+    background-color: powderblue;
+
+
+}
